@@ -1,56 +1,75 @@
-## 🌟 Hi there, I'm Shriom Pal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+README.md
 
-> 🚀 Full Stack Developer (Beginner) | 💡 Curious Learner | 🛠️ Exploring Tech Everyday
+Your Readme is Done 🎉🎉🎉
+Star This Project
+Fork on Github
 
----
+<h1 align="left">Hey 👋 What's up?</h1>
 
-### 👨‍💻 About Me
+###
 
-```js
-const shriom = {
-  status: "Learning Full Stack Development",
-  interests: ["Web Development", "AI/ML", "Mobile Apps", "DevOps"],
-  code: ["JavaScript", "Python", "Java"],
-  frameworks: ["React", "Node.js", "Express", "Flask", "React Native"],
-  tools: ["MongoDB", "Docker", "TensorFlow", "PyTorch", "Git"],
-  goal: "Build impactful, real-world projects & grow as a developer"
-}
-```
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
----
+###
 
-### 🌱 Currently Learning
-- 🌐 MERN Stack Development
-- ⚙️ Docker & Deployment
-- 🤖 AI/ML with TensorFlow & PyTorch
-- 📱 Mobile Development using React Native
+<h2 align="left">About me</h2>
 
----
+###
 
-### 🧠 Skills I'm Exploring
-| Languages     | Frameworks & Tools         | Database & Cloud        |
-|---------------|----------------------------|--------------------------|
-| JavaScript, Python, Java | React, Node.js, Flask, Express, React Native | MongoDB, Docker, Firebase |
-| HTML, CSS     | Git, GitHub, Postman       | REST APIs, JSON          |
-| Bash, Markdown| TensorFlow, PyTorch        | Vercel, Netlify          |
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
----
+###
 
-### 📈 GitHub Stats
+<h2 align="left">I code with</h2>
 
-![Shriom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shriompal&show_icons=true&theme=tokyonight&count_private=true)
+###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shriompal&layout=compact&theme=tokyonight)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
 
----
+###
+A white circle with a dark file icon outlined in the center
+Profile Readme Generator
+Developed and maintained by Mauro de Souza
+Github
+Donate
+Share
+Privacy Policy
+Copy File Content
+Level Up Your README
+Anyone can use templates — but when you know what you’re doing, it shows.
 
-### 🌐 Let's Connect
+👉 Explore resources that will upgrade your skills — and your README. Start now.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
----
+Clean Code
+A Handbook of Agile Software Craftsmanship by Uncle Bob.
 
-### ⚡ Fun Fact
-> I write code that sometimes works on the first try... and I call that **magic** 🪄
+Get the book
+
+Clean Architecture
+Software Architecture Solutions from Uncle Bob.
+
+Get the book
+
+Explore More Books
+Browse the full list of curated titles to boost your coding skills.
+
+More books
+💡 This panel contains affiliate links. If you find something useful and make a purchase, I may earn a small commission ☕. Thanks for the support ❤
+Profile Readme Generator
