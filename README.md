@@ -1,4 +1,4 @@
-![KristigocoupleGIF](https://github.com/user-attachments/assets/622b6af7-9dcd-4c8f-852e-5ad73a1de164)<div align="center">
+<div align="center">
   
 # 👋 Hi there! I'm **Shriom Pal**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shriom17" alt="shriom17" /></a> </p>
