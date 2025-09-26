@@ -36,7 +36,7 @@
 <br><sub>Competed among thousands of developers worldwide</sub>
 </td>
 <td align="center" width="300">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-trophy-achievements-flaticons-lineal-color-flat-icons-2.png"/>
+<img src="https://img.icons8.com/color/48/000000/medal.png"/>
 <br><strong>🏅 Competitive Programming</strong>
 <br><em><strong>LeetCode + GFG</strong></em>
 <br><sub>Sharpening problem-solving skills daily</sub>
