@@ -1,18 +1,171 @@
-<h1 align="center">Hey There👋</h1>
-<h3 align="center">I am a passionate fullstack developer from India</h3>
-
+![KristigocoupleGIF](https://github.com/user-attachments/assets/622b6af7-9dcd-4c8f-852e-5ad73a1de164)<div align="center">
+  
+# 👋 Hi there! I'm **Shriom Pal**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shriom17" alt="shriom17" /></a> </p>
 
-- 🌱 I’m currently learning **new technologies, AI/ML Models, Cybersecurity**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Java+Developer;Fullstack+Developer;AI%2FML+Enthusiast;Cybersecurity+Explorer;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shrioma-pal-8176aa26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrioma-pal-8176aa26" height="30" width="40" /></a>
-<a href="https://instagram.com/sp_shriom_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sp_shriom_17" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shriompal2435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shriompal2435" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shriompd4xu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shriompd4xu" height="30" width="40" /></a>
+### 🚀 **Aspiring Java Developer | Fullstack Enthusiast | AI/ML Explorer | Cybersecurity Learner** 🇮🇳
+<p>
+  <img src="https://komarev.com/ghpvc/?username=shriom17&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/shriom17?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/shriom17?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://img.shields.io/badge/☕_Java-Developer-00D4AA?style=for-the-badge&labelColor=000000" alt="Java Developer"/>
+  <img src="https://img.shields.io/badge/🌐_Fullstack-Enthusiast-FF6B35?style=for-the-badge&labelColor=000000" alt="Fullstack Enthusiast"/>
+  <img src="https://img.shields.io/badge/🤖_AI/ML-Explorer-FFD700?style=for-the-badge&labelColor=000000" alt="AI ML"/>
+  <img src="https://img.shields.io/badge/🛡️_Cybersecurity-Learner-008CFF?style=for-the-badge&labelColor=000000" alt="Cybersecurity"/>
+</p>
 
+</div>
+
+---
+
+## 🏆 **Major Achievements**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="300">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-trophy-achievements-flaticons-lineal-color-flat-icons-2.png"/>
+<br><strong>🏆 Infosys Global Hackathon</strong>
+<br><em><strong>Finalist</strong></em>
+<br><sub>Competed among thousands of developers worldwide</sub>
+</td>
+<td align="center" width="300">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-trophy-achievements-flaticons-lineal-color-flat-icons-2.png"/>
+<br><strong>🏅 Competitive Programming</strong>
+<br><em><strong>LeetCode + GFG</strong></em>
+<br><sub>Sharpening problem-solving skills daily</sub>
+</td>
+<td align="center" width="300">
+<img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/external-innovation-business-strategy-wanicon-lineal-color-wanicon.png"/>
+<br><strong>💡 Innovation</strong>
+<br><em><strong>Tech Explorer</strong></em>
+<br><sub>Learning AI/ML & Cybersecurity</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌱 **Currently Learning & Exploring**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="250">
+<img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
+<br><strong>☕ Java Development</strong>
+<br><em>Spring Boot, Hibernate, REST APIs</em>
+</td>
+<td align="center" width="250">
+<img src="https://img.icons8.com/nolan/64/artificial-intelligence.png"/>
+<br><strong>🤖 AI/ML Models</strong>
+<br><em>Neural Networks & Deep Learning</em>
+</td>
+<td align="center" width="250">
+<img src="https://img.icons8.com/color/64/000000/security-checked.png"/>
+<br><strong>🛡️ Cybersecurity</strong>
+<br><em>Ethical Hacking & Security Basics</em>
+</td>
+<td align="center" width="250">
+<img src="https://img.icons8.com/nolan/64/cloud.png"/>
+<br><strong>☁️ Cloud Technologies</strong>
+<br><em>AWS & DevOps (Learning)</em>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ **Tech Stack**
+
+<div align="center">
+
+### 💻 **Technologies & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,python,js,html,css,react,nodejs,git,github,docker,aws,linux&perline=9" height="70"/>
+</p>
+
+</div>
+
+<br>
+
+---
+
+## 📈 **GitHub Analytics & Statistics**
+
+<div align="center">
+
+<img width="49%" height="155px" src="https://github-readme-stats.vercel.app/api?username=shriom17&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Shriom's GitHub Stats" />
+
+<img width="49%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriom17&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shriom17&theme=github_dark" alt="GitHub Summary"/>
+</div>
+
+---
+
+## 🤝 **Connect with Me**
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shrioma-pal-8176aa268/" target="_blank">
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="margin: 0 15px;"/>
+</a>
+<a href="https://instagram.com/sp_shriom_17" target="_blank">
+<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" style="margin: 0 15px;"/>
+</a>
+<a href="https://leetcode.com/u/shriompal2435/" target="_blank">
+<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" style="margin: 0 15px;"/>
+</a>
+<a href="https://www.geeksforgeeks.org/user/shriompd4xu/" target="_blank">
+<img height="50" width="50" src="https://img.icons8.com/color/96/GeeksforGeeks.png" style="margin: 0 15px;"/>
+</a>
+<a href="mailto:shriomaapal@gmail.com" target="_blank">
+<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" style="margin: 0 15px;"/>
+</a>
+</div>
+
+<div align="center">
+<br>
+<h3>📱 <strong>Let's Connect & Build Something Amazing Together!</strong></h3>
+<p>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/> 
+<img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</p>
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 **"Those who can imagine anything, can create the impossible." — Alan Turing** 🌟
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+<br><br>
+**Thanks for visiting my profile! Let's build something amazing together! 🚀**
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30%">
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=shriom17&label=PROFILE+VIEWS&style=flat-square&color=brightgreen" alt="Profile Views"/>
+
+<br>
+
+</div>
