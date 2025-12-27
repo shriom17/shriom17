@@ -1,8 +1,7 @@
 <div align="center">
   
 # 👋 Hi there! I'm **Shriom Pal**
-[![trophy](https://github-profile-trophy.vercel.app/?username=shriom17&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=shriom17&theme=onedark&no-frame=true&margin-w=15)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Java+Developer;Fullstack+Developer;AI%2FML+Enthusiast;Cybersecurity+Explorer;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 
