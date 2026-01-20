@@ -98,7 +98,7 @@
   <img src="https://github-stats-gkf1.vercel.app/stats/svg?username=shriom17" />
 </p>
 
--- ## 📈 **GitHub Analytics & Statistics**
+<!-- ## 📈 **GitHub Analytics & Statistics**
 
 <div align="center">
 
