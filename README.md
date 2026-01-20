@@ -95,7 +95,7 @@
 ---
 ## 📈 **GitHub Analytics & Statistics**
 <p align="center">
-  <img src="https://github-stats-gkf1.vercel.app/stats/svg?username=shriom17" />
+  <img src=["https://github-stats-gkf1.vercel.app/stats/svg?username=shriom17"](https://github-stats-o4eu.vercel.app/stats/svg?username=shriom17) />
 </p>
 
 <!-- ## 📈 **GitHub Analytics & Statistics**
