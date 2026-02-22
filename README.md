@@ -103,12 +103,11 @@
 
 <div align="center">
 
-<img width="49%" height="155px" src="https://github-readme-stats.vercel.app/api?username=shriom17&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Shriom's GitHub Stats" />
+![GitHub Stats](https://github-stats-gkf1.vercel.app/stats/svg?username=shriom17)
 
-<img width="49%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriom17&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
-
+<!--
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shriom17&theme=github_dark" alt="GitHub Summary"/>
 </div> --->
