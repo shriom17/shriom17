@@ -99,14 +99,14 @@
 </p>
 --->
 
- ## 📈 **GitHub Analytics & Statistics**
+<!-- ## 📈 **GitHub Analytics & Statistics**
 
 <div align="center">
 
 ![GitHub Stats](https://github-stats-gkf1.vercel.app/stats/svg?username=shriom17)
 
 
-</div>
+</div> -->
 <!--
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shriom17&theme=github_dark" alt="GitHub Summary"/>
