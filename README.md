@@ -43,9 +43,9 @@
 </td>
 <td align="center" width="300">
 <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/external-innovation-business-strategy-wanicon-lineal-color-wanicon.png"/>
-<br><strong>💡 Innovation</strong>
-<br><em><strong>Tech Explorer</strong></em>
-<br><sub>Learning AI/ML & Cybersecurity</sub>
+<br><strong>🏆 Meta Pytorch OpenEnv Hackathon</strong>
+<br><em><strong>Finalist</strong></em>
+<br><sub>Competed among thousands of developers worldwide</sub>
 </td>
 </tr>
 </table>
