@@ -42,7 +42,7 @@
 <br><sub>Sharpening problem-solving skills daily</sub>
 </td>
 <td align="center" width="300">
-<img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/external-innovation-business-strategy-wanicon-lineal-color-wanicon.png"/>
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-trophy-achievements-flaticons-lineal-color-flat-icons-2.png"/>
 <br><strong>🏆 Meta Pytorch OpenEnv Hackathon</strong>
 <br><em><strong>Finalist</strong></em>
 <br><sub>Competed among thousands of developers worldwide</sub>
