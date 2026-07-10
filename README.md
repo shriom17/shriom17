@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/☕_Java-Developer-00D4AA?style=for-the-badge&labelColor=000000" alt="Java Developer"/>
   <img src="https://img.shields.io/badge/🌐_Fullstack-Enthusiast-FF6B35?style=for-the-badge&labelColor=000000" alt="Fullstack Enthusiast"/>
   <img src="https://img.shields.io/badge/🤖_AI/ML-Explorer-FFD700?style=for-the-badge&labelColor=000000" alt="AI ML"/>
-  <img src="https://img.shields.io/badge/🛡️_Cybersecurity-Learner-008CFF?style=for-the-badge&labelColor=000000" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/🛡️_Green-Hat-Hacker-008CFF?style=for-the-badge&labelColor=000000" alt="Green-Hat Hacker"/>
 </p>
 
 </div>
