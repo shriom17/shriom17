@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Full-Stack+Developer;AI%2FML+Enthusiast;Green-Hat+Hacker;Problem+Solver+%7C+Continuous+Learner" alt="Typing SVG" />
 
-### 🚀 **Aspiring Java Developer | Fullstack Enthusiast | AI/ML Explorer | Green-Hat Hacker**
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=shriom17&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/shriom17?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
