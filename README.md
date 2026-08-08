@@ -82,6 +82,7 @@ An AI-powered mental wellness platform featuring mood detection and a RAG-based 
 ✨ AI-powered Chatbot
 ✨ REST APIs
 ✨ Backend Testing with Pytest
+🔗 [Explore Repository](https://github.com/shriom17/MindScape)
 
 ---
 
