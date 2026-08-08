@@ -124,6 +124,8 @@ Node.js • TypeScript • Prisma • JWT • REST APIs • HLS
 
 ---
 
+<div align="center">
+  
 # ⚡ Tech Arsenal
 
 <table>
@@ -183,6 +185,8 @@ Node.js • TypeScript • Prisma • JWT • REST APIs • HLS
 
 </tr>
 </table>
+
+</div>
 
 ---
 
