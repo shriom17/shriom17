@@ -35,7 +35,8 @@ motto: "Build. Learn. Break. Fix. Repeat."
 ```
 
 ---
-
+<div align="center">
+  
 # 🏆 Highlights
 
 <p align="center">
@@ -48,6 +49,7 @@ motto: "Build. Learn. Break. Fix. Repeat."
 |    🧠 AI / Full-Stack Projects    |  **Multiple End-to-End Applications** |
 
 </p>
+</div>
 
 ---
 
