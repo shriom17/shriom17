@@ -38,7 +38,7 @@ I'm a **Backend Developer & Full-Stack Engineer** who loves turning ideas into
 
 </td>
 
-<td width="50%" valign="top"
+<td width="50%" valign="top">
 
 ### 🎯 What I'm Working Towards
 
