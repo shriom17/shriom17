@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Shrioma Pal
+# 👋 Hey, I'm Shriom Pal
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Full-Stack+Engineer;AI%2FML+Enthusiast+%7C+Problem+Solver;Building+Ideas+into+Real-World+Solutions+%F0%9F%9A%80" />
 
