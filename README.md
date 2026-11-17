@@ -2,9 +2,11 @@
 
 # 👋 Hey, I'm Shrioma Pal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Full-Stack+Engineer;AI%2FML+Enthusiast+%7C+Problem+Solver;Building+Ideas+into+Real-World+Solutions+%F0%9F%9A%80" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Backend+Developer;AI%2FML+Engineer+%7C+Python+Developer;Building+AI-Powered+Systems+%26+Scalable+Solutions;Turning+Ideas+into+Real-World+Products+%F0%9F%9A%80" />
 
 <br>
+
 
 <img src="https://komarev.com/ghpvc/?username=shriom17&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
 
