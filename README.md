@@ -1,12 +1,10 @@
-<div align="center">
+ <div align="center">
 
 # 👋 Hey, I'm Shrioma Pal
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Backend+Developer;AI%2FML+Engineer+%7C+Python+Developer;Building+AI-Powered+Systems+%26+Scalable+Solutions;Turning+Ideas+into+Real-World+Products+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Backend+%26+AI+Systems;Python+%7C+AI%2FML+%7C+Research+Enthusiast;Building+AI-Powered+Products+%26+Scalable+Systems;Exploring+Deep+Learning+%26+Reinforcement+Learning;Turning+Research+Ideas+into+Working+Solutions+%F0%9F%9A%80" />
 
 <br>
-
 
 <img src="https://komarev.com/ghpvc/?username=shriom17&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
 
@@ -18,25 +16,27 @@
 
 <div align="center">
 
-### 🚀 Building. Learning. Creating.
+### 🚀 Building. Experimenting. Engineering.
 
-I'm a **Backend Developer & Full-Stack Engineer** who loves turning ideas into
-**scalable applications, intelligent systems, and real-world solutions.**
+I'm a **Software Engineer focused on AI/ML and Backend Engineering**, passionate about building intelligent systems, scalable applications, and solving challenging real-world problems.
+
+I enjoy working across the engineering lifecycle — from exploring research ideas and experimenting with ML models to developing backend systems and building end-to-end applications.
 
 </div>
 
 <table align="center">
 <tr>
-
 <td width="50%" valign="top">
 
 ### 💡 What I Do
 
-* 🔧 Build **REST APIs & Backend Systems**
-* 🌐 Develop **Full-Stack Applications**
-* 🤖 Explore **AI/ML & RAG**
-* 🧠 Solve **DSA & Problem-Solving** challenges
-* 🏗️ Learn **System Design & Scalable Architecture**
+- 🔧 Build **Backend Systems & REST APIs**
+- 🤖 Develop **AI/ML-Powered Applications**
+- 🧠 Experiment with **Deep Learning & Reinforcement Learning**
+- 🔬 Explore **AI Research & Experimental Approaches**
+- 🌐 Build **End-to-End Software Products**
+- 💻 Solve **DSA & Problem-Solving Challenges**
+- 🏗️ Explore **System Design & Scalable Architecture**
 
 </td>
 
@@ -44,20 +44,21 @@ I'm a **Backend Developer & Full-Stack Engineer** who loves turning ideas into
 
 ### 🎯 What I'm Working Towards
 
-* ⚡ Becoming a stronger **Backend Engineer**
-* ☁️ Exploring **Cloud & Distributed Systems**
-* ☕ Building expertise in **Java & Spring Boot**
-* 🚀 Creating production-ready applications
-* 📚 Continuously learning & improving
+- ⚡ Becoming a stronger **Software Engineer**
+- 🐍 Deepening expertise in **Python**
+- 🤖 Exploring **Machine Learning & Deep Learning**
+- 🔬 Experimenting with **Novel AI Approaches**
+- 🧠 Exploring **Reinforcement Learning & ARC-AGI**
+- ☁️ Building **Production-Ready AI Systems**
+- 🏗️ Strengthening **Backend Architecture & System Design**
 
 </td>
-
 </tr>
 </table>
 
 <div align="center">
 
-**💻 Code • 🧠 Learn • 🚀 Build • 🔄 Repeat**
+**💻 Code • 🧠 Research • ⚙️ Engineer • 🚀 Build • 🔄 Repeat**
 
 </div>
 
@@ -67,12 +68,12 @@ I'm a **Backend Developer & Full-Stack Engineer** who loves turning ideas into
 
 <div align="center">
 
-|             🚀 Achievement            |             🏅 Recognition            |
-| :-----------------------------------: | :-----------------------------------: |
+| 🚀 Achievement | 🏅 Recognition |
+| :---: | :---: |
 | 🤖 **Meta PyTorch OpenEnv Hackathon** | **Finalist — Top 2.8% of 31K+ teams** |
-|    💡 **Infosys Global Hackathon**    |      **Finalist — Top 33 Teams**      |
-|        💼 **Labdox Internship**       |        **Intern of the Month**        |
-|    🧠 **AI / Full-Stack Projects**    |  **Multiple End-to-End Applications** |
+| 💡 **Infosys Global Hackathon** | **Finalist — Top 33 Teams** |
+| 💼 **Labdox Internship** | **Intern of the Month** |
+| 🧠 **AI / ML & Full-Stack Projects** | **Multiple End-to-End Applications** |
 
 </div>
 
@@ -82,18 +83,19 @@ I'm a **Backend Developer & Full-Stack Engineer** who loves turning ideas into
 
 ## 🏥 MedFlow-OpenEnv
 
-> **Reinforcement Learning × Healthcare × FastAPI**
+> **Reinforcement Learning × Healthcare × AI Agents**
 
 ```text
-Python • FastAPI • OpenEnv • PPO • PyTorch
+Python • Flask • OpenEnv • Q-Learning • PyTorch
 ```
 
-A hospital triage environment designed for reinforcement-learning experimentation.
+A hospital triage environment designed for experimenting with reinforcement-learning agents that make patient prioritization and resource-allocation decisions.
 
-* 🤖 Reinforcement Learning Environment
-* ⚡ FastAPI-based backend
-* 🧠 PPO-based experimentation
-* 🏆 Meta PyTorch OpenEnv Hackathon Finalist
+- 🤖 Custom Reinforcement Learning Environment
+- 🏥 Simulated Healthcare Decision-Making
+- 🧠 Q-Learning Agent & Reward-Based Learning
+- 🧪 Evaluation Against Random Baselines
+- 🏆 Meta PyTorch OpenEnv Hackathon Finalist
 
 🔗 **[Explore Repository](https://github.com/shriom17/MedFlow-OpenEnv)**
 
@@ -104,15 +106,16 @@ A hospital triage environment designed for reinforcement-learning experimentatio
 > **AI × Computer Vision × RAG**
 
 ```text
-React • Flask • Python • LangChain • DeepFace • OpenCV
+Python • React • FastAPI • LangChain • DeepFace • FAISS
 ```
 
-An AI-powered mental wellness platform featuring mood detection and a RAG-based conversational assistant.
+An AI-powered mental wellness platform featuring facial emotion analysis and a Retrieval-Augmented Generation conversational assistant.
 
-* ✨ Facial Expression Analysis
-* 🤖 AI-powered Conversational Assistant
-* 🔗 REST APIs
-* 🧪 Backend Testing with Pytest
+- ✨ Facial Expression & Mood Analysis
+- 🤖 AI-Powered Conversational Assistant
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🔗 Backend APIs & AI Integration
+- 🧪 Backend Testing with Pytest
 
 🔗 **[Explore Repository](https://github.com/shriom17/MindScape)**
 
@@ -120,20 +123,39 @@ An AI-powered mental wellness platform featuring mood detection and a RAG-based 
 
 ## 🌾 KisanMitra
 
-> **Agriculture × Full Stack × Marketplace**
+> **Agriculture × AI × Full-Stack Development**
 
 ```text
-React • Flask • Python • MongoDB • Docker
+Python • Flask • React • Node.js • MongoDB
 ```
 
-A full-stack agriculture platform connecting advisory services with marketplace functionality.
+A full-stack agriculture platform connecting farmers with intelligent advisory services and marketplace functionality.
 
-* 🚀 REST API Architecture
-* 🐳 Dockerized Backend
-* ☁️ Cloud Deployment
-* 🗄️ MongoDB Integration
+- 🌱 Agricultural Advisory Platform
+- 🤖 AI-Based Crop Disease Detection
+- 🔧 REST API Architecture
+- 🗄️ MongoDB Integration
+- 🌐 Farmer-to-Customer Marketplace Concept
 
 🔗 **[Explore Repository](https://github.com/shriom17/KisanMitra)**
+
+---
+
+# 🔬 Research Interests & Exploration
+
+<div align="center">
+
+### Exploring the intersection of AI, Learning Algorithms & Problem Solving
+
+</div>
+
+- 🧠 **Deep Learning:** Neural Networks, Representation Learning & Embeddings
+- 🔄 **Reinforcement Learning:** Q-Learning, Policy Optimization & Agent-Based Learning
+- 🧩 **ARC-AGI:** Abstract Reasoning, Pattern Recognition & Generalization
+- 🔬 **AI Research:** Experimental Architectures, Hypothesis Testing & Model Evaluation
+- ⚡ **Learning Systems:** Exploring how models learn patterns, representations and generalizable solutions
+
+**Current research direction:** Exploring experimental approaches to improve generalization and reasoning in AI systems.
 
 ---
 
@@ -147,12 +169,12 @@ A full-stack agriculture platform connecting advisory services with marketplace 
 Node.js • TypeScript • Prisma • JWT • REST APIs • HLS
 ```
 
-* 🔹 Built and maintained backend services
-* 🔹 Developed REST APIs using **Node.js & TypeScript**
-* 🔹 Worked with **Prisma ORM**
-* 🔹 Implemented **JWT-based authentication**
-* 🔹 Worked with **HLS video streaming**
-* 🏅 Recognized as **Intern of the Month**
+- 🔹 Built and maintained backend services
+- 🔹 Developed REST APIs using **Node.js & TypeScript**
+- 🔹 Worked with **Prisma ORM**
+- 🔹 Implemented **JWT-based authentication**
+- 🔹 Worked with **HLS video streaming**
+- 🏅 Recognized as **Intern of the Month**
 
 ---
 
@@ -175,7 +197,7 @@ Node.js • TypeScript • Prisma • JWT • REST APIs • HLS
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,spring" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" />
 
 </td>
 
@@ -203,7 +225,11 @@ Node.js • TypeScript • Prisma • JWT • REST APIs • HLS
 
 ### 🤖 AI / ML
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
 
 </td>
 
@@ -226,12 +252,6 @@ Node.js • TypeScript • Prisma • JWT • REST APIs • HLS
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=shriom17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriom17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="180"/> -->
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=shriom17&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 
 </div>
@@ -243,13 +263,14 @@ Node.js • TypeScript • Prisma • JWT • REST APIs • HLS
 <div align="center">
 
 ```text
-🏗️ System Design
-☕ Spring Boot
-🧩 Data Structures & Algorithms
+🐍 Advanced Python & PyTorch
+🧠 Deep Learning & Neural Networks
+🔬 AI Research & Experimental Learning
+🧩 ARC-AGI & Abstract Reasoning
+🔄 Reinforcement Learning
+🏗️ Backend Architecture & System Design
+⚡ Scalable APIs & AI Model Deployment
 ☁️ Cloud & Distributed Systems
-🤖 Reinforcement Learning
-🔐 Backend Security
-⚡ Scalable APIs & Microservices
 ```
 
 </div>
@@ -269,19 +290,7 @@ Node.js • TypeScript • Prisma • JWT • REST APIs • HLS
 
 **LEARN**
 
-Computer Science
-Fundamentals
-
-</td>
-
-<td align="center" width="16%">
-
-### 🌐
-
-**BUILD**
-
-Full-Stack
-Applications
+Computer Science Fundamentals
 
 </td>
 
@@ -291,8 +300,7 @@ Applications
 
 **ENGINEER**
 
-Backend Systems
-& REST APIs
+Backend Systems & APIs
 
 </td>
 
@@ -300,10 +308,19 @@ Backend Systems
 
 ### 🤖
 
-**INNOVATE**
+**EXPLORE**
 
-AI • ML
-• RAG
+AI • ML • Deep Learning
+
+</td>
+
+<td align="center" width="16%">
+
+### 🔬
+
+**RESEARCH**
+
+Experiments & Reasoning
 
 </td>
 
@@ -313,8 +330,7 @@ AI • ML
 
 **COMPETE**
 
-Meta & Infosys
-Finalist
+Meta & Infosys Finalist
 
 </td>
 
@@ -322,10 +338,9 @@ Finalist
 
 ### 🚀
 
-**GROW**
+**BUILD**
 
-Cloud • System
-Design
+Intelligent Products
 
 </td>
 
@@ -334,7 +349,7 @@ Design
 
 <br>
 
-### 💙 *Learning today. Building for tomorrow.*
+### 💙 *Learning today. Researching tomorrow. Engineering the future.*
 
 </div>
 
